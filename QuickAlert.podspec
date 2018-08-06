@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "QuickAlert"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "QuickAlert can make alert using ErrorReport"
   s.swift_version = "4.1"
   s.description  = "QuickAlert can make alert using ErrorReport(_ title:message:cancelButtonTitle:)"
